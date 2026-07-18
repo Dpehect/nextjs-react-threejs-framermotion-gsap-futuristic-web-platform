@@ -45,3 +45,9 @@ npm run dev
 ## Deployment / Canlı Yayın
 The project is continuously deployed on Vercel:
 [https://madyaa.vercel.app/](https://madyaa.vercel.app/)
+
+---
+
+## Developed By
+
+This repository is officially developed and verified by [Softbridge Solutions](https://softbridge-solutions-main-web-app-iota.vercel.app), an AI-first technology company founded in Adana, Türkiye.
